@@ -1,0 +1,50 @@
+{ "portofolio" : 
+[{
+    "id": 1,
+    "skill": "Laravel",
+    "experience": 2,
+    "href": "laravel"
+}, {
+    "id": 2,
+    "skill": "ReactJS",
+    "experience": 1,
+    "href": "reactjs"
+},{
+    "id": 3,
+    "skill": "Android Studio",
+    "experience": 1,
+    "href":  "android-studio"
+}, {
+    "id": 4,
+    "skill": "MySQL",
+    "experience": 2,
+    "href": "mysql"
+}, {
+    "id": 5,
+    "skill": "XML",
+    "experience": 2,
+    "href": "xml"
+}, {
+    "id": 6,
+    "skill": "Adobe Premiere",
+    "experience": 1,
+    "href": "adobe-premiere"
+}, {
+    "id": 7,
+    "skill": "Adobe After Effect",
+    "experience": 1,
+    "href": "adobe-after-effect"
+}, {
+    "id": 8,
+    "skill": "Fotografi",
+    "big_project": 0,
+    "experience": 1,
+    "href": "fotografi"
+}, {
+    "id": 9,
+    "skill": "Unity",
+    "big_project": 0,
+    "experience": 1,
+    "href": "unity"
+}]
+}
